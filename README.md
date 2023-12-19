@@ -1,2 +1,2 @@
 Open Link:
-https://ozknaksoy.github.io/rick-and-morty/
+https://ozknaksoy.github.io/classic-card/
